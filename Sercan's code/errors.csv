@@ -1,0 +1,8 @@
+Model,Explained variance score,Max error,Mean  absolute error,Mean squared error,Median absolute error,r2 score,Mean absolute percentage error
+RandomForestRegressor,0.504,1.051,0.113,0.038,0.045,0.504,0.171
+SVR,0.483,1.084,0.126,0.040,0.079,0.480,0.184
+MLPRegressor,0.302,0.974,0.170,0.054,0.122,0.302,0.259
+XGBRegressor,0.205,0.858,0.193,0.062,0.155,0.201,0.291
+LinearRegression,0.040,0.627,0.215,0.074,0.172,0.040,0.324
+Ridge,0.040,0.627,0.215,0.074,0.172,0.040,0.324
+Lasso,0.040,0.627,0.215,0.074,0.172,0.040,0.324
